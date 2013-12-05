@@ -1,4 +1,4 @@
 stamola
 =======
 
-First respository
+First respository.
